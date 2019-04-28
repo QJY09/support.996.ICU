@@ -191,6 +191,7 @@ Supported by / 支持者:
 * Jiandong Shi, Developer, Nanjing, China
 * Jiaxun Pu(蒲家训), Frontend Engineer, Shanghai.China
 * JiaYanwei(hltj), Technical Manager, NIO
+* Jiayou Qu,Computer science, Student
 * Jie Wang, Maintenance, Hangzhou.China
 * Jing Jing Cao, UX Designer, Anki
 * Jisheng Liang(梁基圣)，Student/Software Engineer
